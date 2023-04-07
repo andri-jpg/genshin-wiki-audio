@@ -1,5 +1,5 @@
 # genshin-wiki-audio
- Selenium script to download voiceline from [genshin fandom](www.genshin-impact.fandom.com)
+ Selenium script to download voiceline from [genshin-fandom](https://www.genshin-impact.fandom.com)
 
 ## Requirements
 Install [Chrome](https://www.google.com/chrome) <br /> Install [Python](https://www.python.org/downloads) <br /> After installing python, run this on terminal or cmd <br />
